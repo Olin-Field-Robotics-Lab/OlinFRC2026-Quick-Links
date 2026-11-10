@@ -1,5 +1,10 @@
 # Quick Links for the 2024 Olin Farm Robotics Challenge
 
+## TODOS
+1. Add final video link
+2. Add final report
+3. Add final repostories
+
 ## Resources from Competition Organizers
 
 1. [2024 Farm Robotics Challenge Info](https://drive.google.com/file/d/1AaplZZATmRzX3vZeUGMLuCkfsTgmuFEw/view?usp=drive_link)
